@@ -3,12 +3,10 @@
 
 - 🌱 I’m currently learning everything 🤣
 
----
+--
 
 <img src="https://github-readme-stats.vercel.app/api?username=kalinggapadelmuhamad&show_icons=true&theme=radical">
 
-<br />
-<br />
-
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalinggapadelmuhamad&layout=compact"
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalinggapadelmuhamad&layout=compact">
