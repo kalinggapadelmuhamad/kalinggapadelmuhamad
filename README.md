@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-<div class="statistic">
+<div class="statistic" style="display:block">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kalinggapadelmuhamad&show_icons=true&theme=radical">
 </div>
 <div class="language">
