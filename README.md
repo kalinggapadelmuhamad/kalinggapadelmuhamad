@@ -1,5 +1,5 @@
 ### Hi there, 👋
-### I'm a Developer, Teacher and IT Enthusiast!!
+### I'm a Fullstack Web Developer, and IT Enthusiat!!
 
 - 🌱 I’m currently learning everything 🤣
 
