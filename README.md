@@ -1,7 +1,7 @@
 ### Hi there, 👋
-### I'm a Fullstack Web Developer, and IT Enthusiat!!
+### I'm a Fullstack Developer, and IT Enthusiat!!
 
-- 🌱 I’m currently learning everything 🤣
+
 
 ---
 
